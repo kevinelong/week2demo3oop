@@ -1,5 +1,6 @@
+
 //NOUN: Person, Place, Thing, Idea
-public class Person{
+class Person{
     //Adjectives become properties - facts things we know measures
     String fullName;
     int age;
@@ -25,4 +26,5 @@ public class Person{
                 this.age,
                 getTaxRate());
     }
+
 }
